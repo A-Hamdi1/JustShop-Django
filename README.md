@@ -140,5 +140,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 📞 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter via :
-- Email : akramhamdi299@gmail.com
-- Issues GitHub : [Créer une issue](https://github.com/votre-username/JustShop-Django/issues) 
+- Email : hamdi.akram.dev@gmail.com
+- Issues GitHub : [Créer une issue](https://github.com/A-Hamdi1/JustShop-Django/issues) 
