@@ -54,7 +54,7 @@ JustShop est une application web e-commerce moderne développée avec Django, of
 
 1. Cloner le repository
 ```bash
-git clone https://github.com/votre-username/JustShop-Django.git
+git clone https://github.com/A-Hamdi1/JustShop-Django.git
 cd JustShop-Django
 ```
 
@@ -131,11 +131,11 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT.
 
 ## 👥 Auteurs
 
-- Votre Nom - Développeur Principal
+- Akram Hamdi - Développeur Principal
 
 ## 📞 Contact
 
